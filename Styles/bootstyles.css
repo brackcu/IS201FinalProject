@@ -1,0 +1,32 @@
+body 
+    {background-color: rgb(241, 232, 219);}
+.common
+    {background-color: gainsboro; border: solid 2px black;}
+.header 
+    {top: 1%; left: 1%; right: 1%; height: 10%;
+    text-align: right;
+    font-weight: bold;}
+.column 
+    {display: inline-block; height: 100%}
+.middlesection
+    {height: 75rem; margin-top: 1%; margin-bottom: 1%;}
+.leftmenu 
+    {float: 
+        left; width: 49%;
+    height: 100% }
+.rightmenu 
+    {float:
+        right; width: 49%;
+    height: 100%}
+.footer 
+    {height: 20%; right: 1%;
+    text-align: center;}
+a:visited {
+    color: black;}
+a:hover {
+    color: maroon}
+.headertitle {
+    text-align: center;
+    font-size: x-large;}
+.tab {
+    text-align: center;
